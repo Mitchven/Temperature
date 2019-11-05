@@ -1,0 +1,27 @@
+{
+  "name": "mqtt-heroku",
+  "version": "1.0.0",
+  "description": "\"Heroku MQTT\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mitchven/MQTT-heroku.git"
+  },
+  "author": "Ma.Lyn Gamboa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mitchven/MQTT-heroku/issues"
+  },
+  "homepage": "https://github.com/Mitchven/MQTT-heroku#readme",
+  "engines": {
+    "node": "10.15"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "jquery": "^3.4.1",
+    "package.json": "^2.0.1"
+  }
+}
